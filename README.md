@@ -1,2 +1,5 @@
 # simple-blog
-simple blog by flask&amp;mongodb
+Simple blog by flask&amp;mongodb
+Posts(add-edite-delete)
+Registration&Login
+User-Profile(name-email-profile pic- password- rest poasword)
